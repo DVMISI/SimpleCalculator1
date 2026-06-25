@@ -1,0 +1,4 @@
+SimpleCalculator is an Android application built with Kotlin and Android Studio as part of the SEN 104 & SEN 214 assignment at Obafemi Awolowo University, Ile-Ife. The app features a clean, responsive interface designed with XML LinearLayout and supports both basic arithmetic operations (addition, subtraction, multiplication, division) and advanced scientific functions including trigonometry (sin, cos, tan), logarithms (log, ln), square root, permutations (nPr), and combinations (nCr). Built-in error handling ensures smooth user experience across all operations. The project demonstrates practical knowledge of Android Activity lifecycle, event-driven programming, and mobile UI design.
+
+Short, clean, and professional. Paste that directly into your README under About This Project. ✅
+Sonnet 4.6 Low
